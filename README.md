@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Mohamad Hafiz Daffa*.<br>
+Perkenalkan nama saya *Mohamad Hafiz Daffa*.<br>
 
 Saya seorang **Mahasiswa Informatika** di [ITENAS BANDUNG](https://www.itenas.ac.id/).<br>
 
